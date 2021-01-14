@@ -1,4 +1,4 @@
-# program 1. wap to display 
+# p 1) wap to display 
              * * * * *
              * * * * *
              * * * * *

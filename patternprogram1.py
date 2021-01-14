@@ -25,6 +25,7 @@ colm=int(input("Enter no of colmns:"))
 
 pt(rows,colm)
 
+
 # 3 using while loop with fun
 
 def pt(a):

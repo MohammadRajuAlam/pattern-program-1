@@ -15,6 +15,7 @@ for i in range(1,num+1):
 # 2 salution
 
 def pt(a,b):
+            
     for i in range(1,rows+1):
         for j in range(1,colm+1):
             print("*", end=" ")

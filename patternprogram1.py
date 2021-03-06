@@ -24,6 +24,7 @@ def pt(a,b):
         print()
 
 rows=int(input("Enter no of rows:"))
+
 colm=int(input("Enter no of colmns:"))
 
 pt(rows,colm)

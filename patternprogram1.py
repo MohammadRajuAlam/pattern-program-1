@@ -1,10 +1,11 @@
+'''
 # p 1) wap to display 
 
              * * * * *
              * * * * *
              * * * * *
              * * * * *  
-
+'''
 # 1 solution using for loop
  
 num=int(input("Enter rows:"))

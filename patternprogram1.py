@@ -36,6 +36,7 @@ pt(rows,colm)
 
 def pt(a):
     s=1
+
     while a>=s:
                         
        print("* "*a)

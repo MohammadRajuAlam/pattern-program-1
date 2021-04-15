@@ -23,8 +23,9 @@ def pt(a,b):
     for i in range(1,rows+1):
             
         for j in range(1,colm+1):
-            print("*", end=" ")
             
+            print("*", end=" ")
+ 
         print()
 
 rows=int(input("Enter no of rows:"))

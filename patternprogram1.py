@@ -44,6 +44,7 @@ def pt(a):
        print("* "*a)
 
        s=s+1
+            
     print()
 
 num=int(input("Ente no of rows: "))

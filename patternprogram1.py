@@ -19,6 +19,7 @@ for i in range(1,num+1):
 # 2 salution
 
 def pt(a,b):
+    print("Raju Bhai")
             
     for i in range(1,rows+1):
             

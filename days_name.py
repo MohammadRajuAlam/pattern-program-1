@@ -18,3 +18,14 @@ def day_name(day):
         print("Invalid day number")
 day=int(input("Enter the day number: "))
 day_name(day)
+
+# wap to check the requred book is available in the library or not, take the name of the book as input from user
+def check_book(book_name):
+    library_books=["python", "data science", "machine learning", "artificial intelligence", "deep learning"]
+    if book_name in library_books:
+        print(f"{book_name} is available in the library")
+    else:
+        print(f"{book_name} is not available in the library")
+
+book=input("Enter the name of the book: ")
+check_book(book)

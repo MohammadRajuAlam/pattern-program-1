@@ -14,7 +14,7 @@ elif num_of_month == 6:
     print("June")
 elif num_of_month == 7:
     print("July")
-elif num_of_month == 8:
+elif num_of_month ==8:
     print("August")
 elif num_of_month == 9:
     print("September")
@@ -26,3 +26,4 @@ elif num_of_month == 12:
     print("December")
 else:
     print("Invalid month number")
+print("End of program")
